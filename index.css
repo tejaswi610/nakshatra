@@ -1,0 +1,39 @@
+#logo1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+#logo2 {
+    font-size: 30px;
+    color: blue;
+}
+
+#logo3 {
+    font-size: 15px;
+    margin-left: 1150px;
+}
+
+body {
+    background-color: rgb(253, 237, 254);
+}
+
+#navbarnav {
+    background-color: rgb(175, 231, 249);
+    font-size: 20px;
+    text-decoration-color: black;
+}
+
+.btn {
+    margin-top: -30vh;
+    border-radius: 15px;
+}
+
+#CLG1 {
+    color: rgb(129, 37, 143);
+    text-align: center;
+    font-size: 20px;
+}
+
+#card1 {
+    margin-left: 100px;
+}
